@@ -3,3 +3,5 @@
 Analisis de datos con python
 
 -Estado del proyecto: En construccion.
+
+```npm install react```
